@@ -1,16 +1,19 @@
 ## Hi, I'm Md. Nore Alom Emon 👋
 
 <p>
-👑 I am Front End Web Developer <br> 
-🖊️ Love to write code <br> 
-🎤 Like to share my knowledge </p> 
+👑 I am a Front End Web Developer <br> 
+✍️ Love to write code <br> 
+🎓 Like to share my knowledge </p> 
 
 ![Profile views](https://gpvc.arturio.dev/mdemon899)
 
-<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/g?logo=twitter&style=for-the-badge" alt="shovoalways" /></a> </p>
+<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/Md Nore Alom Emon?logo=twitter&style=for-the-badge" alt="mdnorealomemon" /></a> </p>
 
 ## 🚀 About Me
-I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP. 
+I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I specialize in HTML, CSS, Bootstrap, Tailwind CSS, and JavaScript. I create visually appealing and interactive websites that provide an exceptional user experience. I have over 2 years of experience in this section. Whether you need a simple landing page, a responsive site, or a complete website, I'm here to help. Fell Free To Contact Me
+
+- 👨‍💻 I’m currently working on Fiverr,Upwork 
+- 📖 I’m currently learning JavaScript 
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ HTML <br> 
