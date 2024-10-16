@@ -2,7 +2,7 @@
 <p>👑 I am a Front End Web Developer</p><br>
 <p>✍️ Love to write code</p><br>
 <p>🎓 Love to learn new things</p><br>
-<p>🌱 I’m currently learning TypeScript</p><br>
+<p>🌱 I’m currently learning Next.js</p><br>
 <p>⚡ Fun fact im self taught developer 😊</p><br>
 <p>🔭 I’m currently working on Fiverr, Upwork</p><br>
 <p>✍️ Love to write code</p><br>
