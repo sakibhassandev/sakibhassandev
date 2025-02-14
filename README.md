@@ -1,17 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sakib Hassan
 ====================================================================================================================================
 
-Frontend Web Developer
+MERN Stack Developer
 ----------------------
 
-I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I specialize in HTML, CSS, Bootstrap, Bulma, Tailwind CSS, JavaScript, React, Redux, TypeScript, Next.js Etc... I create visually appealing and interactive websites that provide an exceptional user experience. I have over 2 years of experience in this section. Whether you need a simple landing page, a responsive site, or a complete website, I'm here to help. Fell Free To Contact Me
+I’m a MERN Stack Web developer who is passionate about making error-free websites with 100% client satisfaction. I specialize in HTML, CSS, Bootstrap, Bulma, Tailwind CSS, JavaScript, React, Redux, TypeScript, Next.js, MongoDB, Mongoose, Prisma, Express.js, JWT, Bcrypt, EJS, Atuh.js Etc... I create visually appealing and interactive websites that provide an exceptional user experience. I have around 2 years of experience in this section. Whether you need a simple landing page, a responsive site, e-commerce site or even more complex website, I'm here to help. Fell Free To Contact Me
 
 * 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [Sakib Hasssan](http://sakibhassan.com)
+* 🖥️  See my portfolio at [Sakib Hasssan](https://sakibhassan.com/)
 * ✉️  You can contact me at [sakibhassan.webdev@gmail.com](mailto:sakibhassan.webdev@gmail.com)
 * 🚀  I'm currently working on [Furnito](http://furnito.vercel.app)
-* 🧠  I'm learning Node.js
-* ⚡  Fun fact, I'm self taught developer
+* 🧠  I'm learning CMS
 
 <a href="https://www.x.com/sakibhassan_dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/sakibhassan_dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
